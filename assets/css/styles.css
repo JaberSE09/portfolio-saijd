@@ -204,7 +204,7 @@ img {
 }
 
 .home__title-color {
-  color: var(--first-color);
+  color: blue;
 }
 
 .home__social {
