@@ -397,11 +397,9 @@ img {
   margin-bottom: var(--mb-4);
 }
 
-.footer__icon {
-  font-size: 1.5rem;
-  color: #fff;
-  margin: 0 var(--mb-2);
-}
+.footer__icon img.fiverr{
+  display: block;
+  width: 50%;}
 
 .footer__copy {
   font-size: var(--smaller-font-size);
@@ -528,5 +526,7 @@ img {
     width: 450px;
   }
 }
+
+
 
 
